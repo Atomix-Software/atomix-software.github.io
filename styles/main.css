@@ -16,6 +16,12 @@ body
     position: relative;
 }
 
+.logo
+{
+    width: 16px;
+    height: 16px;
+}
+
 .nav 
 {
     background-color: #8a92c7;
