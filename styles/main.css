@@ -22,6 +22,17 @@ body
     height: 16px;
 }
 
+.projects
+{
+    padding-top: 2%;
+}
+
+.projects img
+{
+    width: 20%;
+    height: 25%;
+}
+
 .nav 
 {
     background-color: #8a92c7;
